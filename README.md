@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Backend Web Development**
 
-- 👨‍💻 All of my projects are available at [https://sheran-randika.netlify.app/](https://sheran-randika.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sheranrandika.vercel.app/](https://sheranrandika.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@sheranrandika1999](https://medium.com/@sheranrandika1999)
 
-- 📫 How to reach me **sheranrandika1999@gmail.com**
+- 📫 How to reach me **sheranrandika@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
